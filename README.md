@@ -1,6 +1,6 @@
 # Classificação de desempenho de jogadores profissionais de CS2
 
-Projeto acadêmico de machine learning em Python, estruturado a partir do projeto de [Predição de Doenças Cardiovasculares](https://github.com/KauaGhizzo/Predi-oDoen-asCardiovascularesML). Compara três classificadores supervisionados e usa K-means para explorar perfis de desempenho.
+Projeto acadêmico de machine learning em Python. Compara três classificadores supervisionados e usa K-means para explorar perfis de desempenho.
 
 ## Objetivo
 
