@@ -1,0 +1,23 @@
+# Dados locais do Kaggle
+/dados/*.csv
+/cs2_all_tiers_games.csv
+/counter-strike-pro-matches.zip
+
+# Saídas do script e do Colab
+/resultados/
+/resultados_cs2/
+/Graficos_CS2.zip
+
+# Ambientes virtuais
+/.venv/
+/venv/
+
+# Caches do Python e do Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
